@@ -13,7 +13,7 @@
         <number name="createdDate" type="Long">1786537662711</number>
         <value name="lastModifiedBy">hakan.hansson@celestedigital.se</value>
         <value name="lastModifiedByUserId">e6a9d5911dd14c9dac0ac5431ff29cc9</value>
-        <number name="lastModifiedDate" type="Long">1786537662711</number>
+        <number name="lastModifiedDate" type="Long">1786537762525</number>
       </record>
       <Boolean name="wMIODocTypeReplica">true</Boolean>
     </record>
@@ -27,6 +27,7 @@
       <record javaclass="com.wm.util.Values">
         <value name="node_type">field</value>
         <value name="node_subtype">unknown</value>
+        <value name="node_nsName">project.hh_lm_gh.documenttypes:</value>
         <value name="node_comment"></value>
         <record name="node_hints" javaclass="com.wm.util.Values">
           <value name="field_largerEditor">false</value>
@@ -34,14 +35,17 @@
           <value name="field_usereditable">false</value>
         </record>
         <value name="is_public">false</value>
-        <value name="field_name">whhatever</value>
-        <value name="field_type">string</value>
+        <value name="field_name">Wrapper</value>
+        <value name="field_type">recref</value>
         <value name="field_dim">0</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
+        <value name="modifiable">true</value>
+        <value name="rec_ref">project.hh_lm_gh.documenttypes:</value>
       </record>
     </array>
     <value name="modifiable">true</value>
+    <value name="updateRSD">true</value>
   </record>
 </Values>
