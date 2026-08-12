@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: HH_LM_GHProject
+  gitServerName: HHGitHub
+  gitUrl: https://github.com/HMHansson
+  gitUsername: HMHansson
+  gitBranch: main
